@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Macbook Pro",
+        "color": "plateado",
+        "precio": 450000,
+        "stock": 128,
+        "codigo": "abc001",
+        "publicado": true,
+        "fecha_creacion": "22/12/21"
+      },
+      {
+        "id": 1,
+        "nombre": "Samsung s20",
+        "color": "azul",
+        "precio": 90000,
+        "stock": 15,
+        "codigo": "abc002",
+        "publicado": true,
+        "fecha_creacion": "21/12/21"
+      },
+      {
+        "id": 1,
+        "nombre": "Mouse Red Dragon",
+        "color": "Negro",
+        "precio": 1300,
+        "stock": 2,
+        "codigo": "abc003",
+        "publicado": true,
+        "fecha_creacion": "08/12/21"
+      },
+      {
+        "id": 1,
+        "nombre": "Teclado Red Dragon",
+        "color": "Negro",
+        "precio": 5000,
+        "stock": 12,
+        "codigo": "abc004",
+        "publicado": false,
+        "fecha_creacion": "22/11/21"
+      },
+      {
+        "id": 1,
+        "nombre": "Auriculares Skullcandy",
+        "color": "Azul",
+        "precio": 13000,
+        "stock": 40,
+        "codigo": "abc005",
+        "publicado": true,
+        "fecha_creacion": "22/12/20"
+      }
+]
