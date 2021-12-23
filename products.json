@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "nombre": "Macbook Pro",
+    "color": "plateado",
+    "precio": 450000,
+    "stock": 128,
+    "codigo": "abc001",
+    "publicado": true,
+    "fecha_creacion": "22/12/21"
+  }
